@@ -1,0 +1,25 @@
+* {
+    font-family: Arial, sans-serif;
+}
+
+
+ul>li {
+    display: inline;
+}
+
+.link {
+    text-decoration: wavy;
+    font-size: medium;
+    font-weight: 600px;
+    margin-left: 45px;
+    color: rgb (#b7b7ea)
+}
+
+Bar {
+    border-bottom: 3px salmon;
+    text-align: center;
+}
+
+header {
+    background-image: Kidsinstem;
+}
